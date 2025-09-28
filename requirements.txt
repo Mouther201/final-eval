@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+loguru
+aiomysql
+SQLAlchemy
+databases[mysql]
+PyMySQL
+cryptography
